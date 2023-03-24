@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CSeqpat"]
+	path = CSeqpat
+	url = https://github.com/cran/CSeqpat
+	shallow = true
+	registered = true
